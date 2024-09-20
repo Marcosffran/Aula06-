@@ -1,0 +1,23 @@
+header{
+background:  red;
+text-align: center;
+justify-content: center;
+align-items: center;
+ 
+}
+
+
+img{
+border-radius: 50px;
+
+
+}
+
+footer{
+font-weight: bold;
+background-color: aqua;
+}
+section{
+background-color: brown;
+
+}
